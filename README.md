@@ -1,2 +1,2 @@
-Ceci
-est une session de TP sur Git
+Ceci est une session de TP sur Git
+## Objectifs du TP
